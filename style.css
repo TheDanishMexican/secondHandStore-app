@@ -1,0 +1,196 @@
+* {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+html,
+body {
+  height: 100%;
+  background-color: lightgray;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
+
+nav {
+  display: flex;
+  color: black;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  margin: 15px;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
+h1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#clothesContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: calc(90%);
+  margin: auto;
+}
+
+#furnitureContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: calc(90%);
+  margin: auto;
+}
+
+.product-item {
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 auto;
+  width: calc(60% -10px);
+  border: solid 1px black;
+  border-radius: 10px;
+  margin: 40px;
+  padding: 10px;
+  flex-basis: calc(33%);
+}
+
+.columns {
+  display: flex;
+  justify-content: center;
+}
+
+.columns div {
+  margin: 20px;
+  box-sizing: border-box;
+}
+
+#clothesContainer.hidden {
+  display: none;
+}
+
+#furnitureContainer.hidden {
+  display: none;
+}
+
+.hidden {
+  display: none;
+}
+
+.nav-button:hover {
+  cursor: pointer;
+  font-weight: 700;
+}
+
+.item-img {
+  width: 100%;
+}
+
+.item-header {
+  display: flex;
+  justify-content: center;
+}
+
+#h1Clothes {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+#h1Furniture {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+/* Disable pointer events for all child elements */
+.product-item * {
+  pointer-events: none;
+}
+
+/* Override pointer-events for the product-item's immediate children */
+.product-item > * {
+  pointer-events: auto;
+}
+
+.product-item:hover {
+  cursor: pointer;
+  background-color: beige;
+  transform: scale(1.01);
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+footer {
+  background-color: darkgray;
+}
+
+#footerNav {
+  display: flex;
+  flex-direction: column;
+}
+
+.footer-item {
+  margin: 5px;
+}
+
+#frontpage-image-container {
+  display: flex;
+  width: 50%;
+  justify-content: center;
+  margin: auto;
+}
+
+#frontpage-image {
+  width: calc(100%); /* Set a maximum width for the image */
+  border-radius: 10px;
+  margin-bottom: 50px;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.body-item {
+  animation: fadeIn 1s;
+}
+
+.item-img {
+  border-radius: 10px;
+  max-width: 100%;
+  height: 30vw;
+}
+
+.full-width {
+  display: flex;
+  justify-content: center;
+}
+
+#aboutUs {
+  display: flex;
+  flex-direction: column;
+}
+
+#aboutUs h2 {
+  margin-bottom: 0;
+}
+
+#aboutUs p {
+  font-size: 15px;
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "id": 31,
+    "navn": "Anna Jensen",
+    "stilling": "Butiksleder",
+    "alder": 32,
+    "billede": "anna.jpg"
+  },
+  {
+    "id": 32,
+    "navn": "Peter Nielsen",
+    "stilling": "Salgsassistent",
+    "alder": 25,
+    "billede": "peter.jpg"
+  },
+  {
+    "id": 33,
+    "navn": "Maria Pedersen",
+    "stilling": "Kasserer",
+    "alder": 28,
+    "billede": "maria.jpg"
+  },
+  {
+    "id": 34,
+    "navn": "Mikkel Madsen",
+    "stilling": "Lagermedarbejder",
+    "alder": 29,
+    "billede": "mikkel.jpg"
+  },
+  {
+    "id": 35,
+    "navn": "Louise Rasmussen",
+    "stilling": "Salgsassistent",
+    "alder": 24,
+    "billede": "louise.jpg"
+  },
+  {
+    "id": 36,
+    "navn": "Anders Christensen",
+    "stilling": "Salgsassistent",
+    "alder": 27,
+    "billede": "anders.jpg"
+  },
+  {
+    "id": 37,
+    "navn": "Sofie Larsen",
+    "stilling": "Kasserer",
+    "alder": 26,
+    "billede": "sofie.jpg"
+  },
+  {
+    "id": 38,
+    "navn": "Martin Sørensen",
+    "stilling": "Salgsassistent",
+    "alder": 23,
+    "billede": "martin.jpg"
+  },
+  {
+    "id": 39,
+    "navn": "Laura Nielsen",
+    "stilling": "Lagermedarbejder",
+    "alder": 30,
+    "billede": "laura.jpg"
+  },
+  {
+    "id": 40,
+    "navn": "Thomas Hansen",
+    "stilling": "Salgsassistent",
+    "alder": 27,
+    "billede": "thomas.jpg"
+  }
+]

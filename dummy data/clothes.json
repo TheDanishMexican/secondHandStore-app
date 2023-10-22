@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "navn": "Jeans",
+    "type": "Bukser",
+    "farve": "Blå",
+    "pris": 49.99,
+    "stand": "Ny",
+    "størrelse": "M",
+    "billede": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Skinny_Jeans_%28Unsplash%29.jpg/597px-Skinny_Jeans_%28Unsplash%29.jpg?20170821174127",
+    "opretteDato": "2023-10-21"
+  },
+  {
+    "id": 2,
+    "navn": "T-shirt",
+    "type": "Top",
+    "farve": "Hvid",
+    "pris": 19.99,
+    "stand": "Brugt",
+    "størrelse": "L",
+    "billede": "https://c.pxhere.com/photos/67/8a/t_shirt_white_garment_rags_vacuum_cancas_model-812168.jpg!d",
+    "opretteDato": "2023-10-20"
+  },
+  {
+    "id": 3,
+    "navn": "Kjole",
+    "type": "Kjole",
+    "farve": "Rød",
+    "pris": 59.99,
+    "stand": "Ny",
+    "størrelse": "S",
+    "billede": "https://st4.depositphotos.com/12982378/22567/i/950/depositphotos_225674090-stock-photo-cheerful-african-american-young-woman.jpg",
+    "opretteDato": "2023-10-19"
+  },
+  {
+    "id": 4,
+    "navn": "Hoodie",
+    "type": "Sweatshirt",
+    "farve": "Grå",
+    "pris": 39.99,
+    "stand": "Brugt",
+    "størrelse": "XL",
+    "billede": "https://images.pexels.com/photos/4662513/pexels-photo-4662513.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "opretteDato": "2023-10-18"
+  },
+  {
+    "id": 5,
+    "navn": "Skjorte",
+    "type": "Top",
+    "farve": "Blå",
+    "pris": 29.99,
+    "stand": "Ny",
+    "størrelse": "M",
+    "billede": "https://c.pxhere.com/images/f1/12/d91700b53014f5788daa31667e50-1641498.jpg!d",
+    "opretteDato": "2023-10-17"
+  },
+  {
+    "id": 6,
+    "navn": "Nederdel",
+    "type": "Nederdel",
+    "farve": "Sort",
+    "pris": 34.99,
+    "stand": "Ny",
+    "størrelse": "S",
+    "billede": "https://www.butiksoes.dk/shared/12/167/neo-noir-neo-noir-nederdel-sort_1180h.jpg",
+    "opretteDato": "2023-10-16"
+  },
+  {
+    "id": 7,
+    "navn": "Jakke",
+    "type": "Jakke",
+    "farve": "Grøn",
+    "pris": 79.99,
+    "stand": "Ny",
+    "størrelse": "L",
+    "billede": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Hesse_State_Police_green_jacket.jpg/1200px-Hesse_State_Police_green_jacket.jpg?20120410182132",
+    "opretteDato": "2023-10-15"
+  },
+  {
+    "id": 8,
+    "navn": "Bluse",
+    "type": "Top",
+    "farve": "Hvid",
+    "pris": 24.99,
+    "stand": "Brugt",
+    "størrelse": "S",
+    "billede": "https://st4.depositphotos.com/13193658/22345/i/950/depositphotos_223457460-stock-photo-partial-view-businesswoman-formal-wear.jpg",
+    "opretteDato": "2023-10-14"
+  },
+  {
+    "id": 9,
+    "navn": "Shorts",
+    "type": "Bukser",
+    "farve": "Kaki",
+    "pris": 19.99,
+    "stand": "Brugt",
+    "størrelse": "XL",
+    "billede": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/HK_TKO_%E5%B0%87%E8%BB%8D%E6%BE%B3_Tseung_Kwan_O_PopCorn_mall_shop_Uniqlo_Clothing_store_July_2022_Px3_04.jpg/1200px-HK_TKO_%E5%B0%87%E8%BB%8D%E6%BE%B3_Tseung_Kwan_O_PopCorn_mall_shop_Uniqlo_Clothing_store_July_2022_Px3_04.jpg?20220714070303",
+    "opretteDato": "2023-10-13"
+  },
+  {
+    "id": 10,
+    "navn": "Sweater",
+    "type": "Sweatshirt",
+    "farve": "Blå",
+    "pris": 44.99,
+    "stand": "Ny",
+    "størrelse": "M",
+    "billede": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/EscuelasLlanteno-IratxeParroYLuisPadura.jpg/754px-EscuelasLlanteno-IratxeParroYLuisPadura.jpg?20221125201155",
+    "opretteDato": "2023-10-12"
+  }
+]

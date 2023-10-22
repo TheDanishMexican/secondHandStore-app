@@ -1,0 +1,102 @@
+[
+  {
+    "id": 21,
+    "navn": "Sofa",
+    "type": "Sofa",
+    "farve": "Grå",
+    "pris": 599.99,
+    "stand": "Ny",
+    "størrelse": "3-personers",
+    "opretteDato": "2023-10-21"
+  },
+  {
+    "id": 22,
+    "navn": "Spisebord",
+    "type": "Bord",
+    "farve": "Træ",
+    "pris": 249.99,
+    "stand": "Brugt",
+    "størrelse": "6-personers",
+    "opretteDato": "2023-10-20"
+  },
+  {
+    "id": 23,
+    "navn": "Sengehest",
+    "type": "Seng",
+    "farve": "Hvid",
+    "pris": 79.99,
+    "stand": "Ny",
+    "størrelse": "Enkelt",
+    "opretteDato": "2023-10-19"
+  },
+  {
+    "id": 24,
+    "navn": "Reol",
+    "type": "Reol",
+    "farve": "Sort",
+    "pris": 129.99,
+    "stand": "Ny",
+    "størrelse": "Høj",
+    "opretteDato": "2023-10-18"
+  },
+  {
+    "id": 25,
+    "navn": "Lænestol",
+    "type": "Stol",
+    "farve": "Brun",
+    "pris": 199.99,
+    "stand": "Brugt",
+    "størrelse": "Enkelt",
+    "opretteDato": "2023-10-17"
+  },
+  {
+    "id": 26,
+    "navn": "Køkkenø",
+    "type": "Bord",
+    "farve": "Hvid",
+    "pris": 399.99,
+    "stand": "Ny",
+    "størrelse": "Kompakt",
+    "opretteDato": "2023-10-16"
+  },
+  {
+    "id": 27,
+    "navn": "Natbord",
+    "type": "Bord",
+    "farve": "Eg",
+    "pris": 49.99,
+    "stand": "Brugt",
+    "størrelse": "Lille",
+    "opretteDato": "2023-10-15"
+  },
+  {
+    "id": 28,
+    "navn": "Kommode",
+    "type": "Møbel",
+    "farve": "Mørkebrun",
+    "pris": 149.99,
+    "stand": "Ny",
+    "størrelse": "Mellem",
+    "opretteDato": "2023-10-14"
+  },
+  {
+    "id": 29,
+    "navn": "Skrivebord",
+    "type": "Bord",
+    "farve": "Hvid",
+    "pris": 159.99,
+    "stand": "Ny",
+    "størrelse": "Stor",
+    "opretteDato": "2023-10-13"
+  },
+  {
+    "id": 30,
+    "navn": "Vitrineskab",
+    "type": "Skab",
+    "farve": "Mahogni",
+    "pris": 299.99,
+    "stand": "Brugt",
+    "størrelse": "Stor",
+    "opretteDato": "2023-10-12"
+  }
+]

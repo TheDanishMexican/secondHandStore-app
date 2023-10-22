@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Document</title>
+  </head>
+  <header>
+    <nav>
+      <div>
+        <article id="frontpage-button" class="nav-button">Forside</article>
+      </div>
+
+      <div>
+        <article class="nav-button" id="clothes-button">Tøj</article>
+      </div>
+
+      <div>
+        <article class="nav-button" id="furniture-button">Møbler</article>
+      </div>
+
+      <div>
+        <article class="nav-button">Spørgsmål</article>
+      </div>
+
+      <div>
+        <article class="nav-button">Praktisk</article>
+      </div>
+    </nav>
+  </header>
+
+  <body>
+    <main class="body-item">
+      <h1>Second hand store</h1>
+    </main>
+
+    <div id="frontpage-image-container">
+      <div class="body-item">
+        <img
+          id="frontpage-image"
+          src="src/Mission_Afrika_Genbrug_Silkeborg.jpg"
+          alt=""
+        />
+      </div>
+    </div>
+
+    <div id="productsContainer">
+      <div id="clothesHeader" class="hidden body-item">
+        <div id="h1Clothes">
+          <div>
+            <h1>Tøj</h1>
+          </div>
+
+          <div>
+            <button id="addClothing">Tilføj produkt</button>
+          </div>
+        </div>
+
+        <div id="clothesContainer" class="hidden body-item"></div>
+      </div>
+
+      <div id="furnitureHeader" class="hidden body-item">
+        <div id="h1Furniture">
+          <div>
+            <h1>Møbler</h1>
+          </div>
+
+          <div>
+            <button id="addFurniture">Tilføj produkt</button>
+          </div>
+        </div>
+
+        <div id="furnitureContainer" class="hidden body-item"></div>
+      </div>
+    </div>
+
+    <footer>
+      <div id="footer-content">
+        <div id="aboutUs" class="footer-item">
+          <h2>Om os</h2>
+          <p>
+            Vi er en lille frivillig virksomhed, som er bygget på hårdt arbejde.
+            Der arbejder på ethvert givent tidspunkt 3 mennesker som giver deres
+            tid ud helt gratis. Alt hvad vi sælger i butikken kommer ind fra
+            donationer.
+          </p>
+        </div>
+      </div>
+    </footer>
+    <script type="module" src="app.js"></script>
+  </body>
+</html>
